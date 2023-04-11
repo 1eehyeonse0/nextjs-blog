@@ -5,6 +5,7 @@ export default function FirstPost() {
     <>
       <h1>My name is Lee Hyeon Seo</h1>
       <h2>My hobby is Judo</h2>
+      <h2>This is Judo</h2>
       <video controls>
         <source src="/videos/judo.mp4" type="video/mp4" />
         Your browser does not support the video tag.
@@ -15,3 +16,4 @@ export default function FirstPost() {
     </>
   );
 }
+
