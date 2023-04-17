@@ -10,9 +10,13 @@ export default function FirstPost() {
         <source src="/videos/judo.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
+
+      <h1><a href="/ballbouncing.html">ballbouncing</a></h1>
+
       <h2>
         <Link href="/">Back to home</Link>
       </h2>
+
     </>
   );
 }
